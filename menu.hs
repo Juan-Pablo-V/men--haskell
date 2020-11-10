@@ -17,7 +17,7 @@ casos n = do
         serie 0 1 1 (read p)
    2 -> unoAdiez 1
    3 -> factorial
-   4 -> desaparecer [1,2,3,4,5,6,7,8]
+   4 -> desaparecer [1,2,3,4,5,6,7,8,9,10]
    5 -> palindromo
    6 -> calculadora
    7 -> putStrLn("Adios :)")
